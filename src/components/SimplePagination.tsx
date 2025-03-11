@@ -1,4 +1,3 @@
-import React from 'react';
 import { usePagination } from '../context/PaginationContext';
 
 export default function SimplePagination() {
